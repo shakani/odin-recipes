@@ -13,3 +13,23 @@ img {
 .title {
     text-align: center;
 }
+
+p.description {
+    color: gray;
+}
+
+h3 {
+    color: rgb(100, 100, 100);
+}
+
+ul > li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol > li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
